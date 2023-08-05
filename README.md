@@ -33,6 +33,6 @@ Redit Docs: [https://anonymous.4open.science/w/Redit-BE31/](https://anonymous.4o
 
   2. Provide the fixed version file directly.
 
-In short, the first method is more in line with the patch repair process, and the second method is more convenient and simple.
+  In short, the first method is more in line with the patch repair process, and the second method is more convenient and simple.
 
 - We involved some other system versions when building test cases, so some additional versions are included in the benchmark for use by test cases, which are temporarily out of the scope of benchmark and do not include test suites. I think these versions will be involved in the subsequent expansion of the benchmark.
