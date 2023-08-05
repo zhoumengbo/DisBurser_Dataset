@@ -17,12 +17,6 @@
 
 
 
-## Redit-Bug-Testcase
-
-Redit Docs: [https://anonymous.4open.science/w/Redit-BE31/](https://anonymous.4open.science/w/Redit-BE31/)
-
-
-
 ## Explanation
 
 - Due to the large storage space occupied by the source code packages and binary packages of the distributed system, these packages in this anonymous project will be omitted and download URLs will be provided.
