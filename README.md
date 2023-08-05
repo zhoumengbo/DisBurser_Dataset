@@ -23,14 +23,16 @@ Redit Docs: [https://anonymous.4open.science/w/Redit-BE31/](https://anonymous.4o
 
 
 
-## Anonymous database description
+## Explanation
 
-1. Due to the large storage space occupied by the source code packages and binary packages of the distributed system, these packages in this anonymous project will be omitted and download URLs will be provided.
-2. We provide two implementation methods for simulating patch repairs in the benchmark test suite file inject.c in this anonymous project:
+- Due to the large storage space occupied by the source code packages and binary packages of the distributed system, these packages in this anonymous project will be omitted and download URLs will be provided.
 
-   - Use the io stream to dynamically repair the buggy version file to obtain the fixed version file.
+- We provide two implementation methods for simulating patch repairs in the benchmark test suite file inject.c in this anonymous project:
 
-   - Provide the fixed version file directly.
+  1. Use the io stream to dynamically repair the buggy version file to obtain the fixed version file.
 
-     In short, the first method is more in line with the patch repair process, and the second method is more convenient and simple.
-3. We involved some other system versions when building test cases, so some additional versions are included in the benchmark for use by test cases, which are temporarily out of the scope of benchmark and do not include test suites. I think these versions will be involved in the subsequent expansion of the benchmark.
+  2. Provide the fixed version file directly.
+
+In short, the first method is more in line with the patch repair process, and the second method is more convenient and simple.
+
+- We involved some other system versions when building test cases, so some additional versions are included in the benchmark for use by test cases, which are temporarily out of the scope of benchmark and do not include test suites. I think these versions will be involved in the subsequent expansion of the benchmark.
